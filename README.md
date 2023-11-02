@@ -1,4 +1,5 @@
 # Tableau Visualizations Challenges
+## by Albert Lleida
 
 Welcome to my Tableau Visualization Challenges repository! Here, as a Junior Data Analyst, I participate in the #WorkoutWednesday challenges by Tableau, practicing and enhancing my visualization skills by reproducing various data-driven visualizations using Tableau.
 
@@ -22,3 +23,6 @@ Each folder labeled WOW23_W[number] represents a specific challenge I've attempt
 Feel free to explore each challenge folder to see my solutions and approach for different Workout Wednesday challenges.
 
 Enjoy exploring the visualizations and solutions! 📊✨
+
+## Last Updated: November 2, 2023
+

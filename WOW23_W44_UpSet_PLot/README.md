@@ -28,6 +28,9 @@ I'm open to feedback and excited to keep honing my Tableau skills. Always learni
 
 ### [Tableau Visualization: UpSet Plot](https://public.tableau.com/app/profile/albert1030/viz/UpSetPlot-WOW2023W44/Historia1?publish=yes)
 
+<img width="1367" alt="Viz - Albert Lleida" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/052c360b-b7a8-43b4-b184-b9ad31a46b8f">
+
+
 This visualization presents the detailed UpSet plot created for the Workout Wednesday challenge. Explore customer purchasing patterns within Furniture sub-categories interactively.
 
 Skillss: Data Analysis · Data Visualization · Tableau

@@ -15,7 +15,7 @@ I'm a Junior Data Analyst enhancing my visualization skills in Tableau. This is 
 
 - **Dataset Source:** 20222 Superstore Dataset on Data.World.
 - **Dashboard Size:** 1200 x 800 px.
-- **Custom Calculations:** Successfully reduced to just one calculated field for optimization.
+- **Custom Calculations:** 1.
 - **Features:** Interactive view enabling users to explore sales data based on different customer cohorts.
 
 Find the original challenge description at the [WorkoutWednesday site](https://workout-wednesday.com/2023w44tab).
@@ -33,4 +33,4 @@ I'm open to feedback and excited to keep honing my Tableau skills. Always learni
 
 This visualization presents the detailed UpSet plot created for the Workout Wednesday challenge. Explore customer purchasing patterns within Furniture sub-categories interactively.
 
-Skillss: Data Analysis · Data Visualization · Tableau
+Skills: Data Analysis · Data Visualization · Tableau

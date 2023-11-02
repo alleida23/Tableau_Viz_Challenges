@@ -1,9 +1,7 @@
 # Workout Wednesday Challenge: UpSet Plot in Tableau
 **By Albert Lleida, November 2023**
 
-## Challenge Description
-
-I'm a Junior Data Analyst enhancing my visualization skills in Tableau. This is my first time engaging with Workout Wednesdays by Tableau, and this project is the result.
+I'm a Junior Data Analyst enhancing my visualization skills in Tableau. This is my first time engaging with Workout Wednesdays, and this project is the result.
 
 ### Challenge Details
 

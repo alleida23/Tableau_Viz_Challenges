@@ -23,7 +23,8 @@ Find the original challenge description at the [WorkoutWednesday site](https://w
 
 ### [Tableau Visualization: UpSet Plot by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/UpSetPlot-WOW2023W44/Historia1?publish=yes)
 
-![Viz - Albert Lleida](https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/052c360b-b7a8-43b4-b184-b9ad31a46b8f)
+<img width="1188" alt="Captura de pantalla 2023-11-02 a las 19 53 37" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/ac00583b-95dd-40dc-be34-d275511f55a5">
+
 
 This visualization presents the detailed UpSet plot created for the Workout Wednesday challenge. Explore customer purchasing patterns within Furniture sub-categories interactively.
 

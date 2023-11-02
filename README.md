@@ -1,5 +1,5 @@
 # Tableau Visualizations Challenges
-## by Albert Lleida
+by **Albert Lleida**
 
 Welcome to my Tableau Visualization Challenges repository! Here, as a Junior Data Analyst, I participate in the #WorkoutWednesday challenges by Tableau, practicing and enhancing my visualization skills by reproducing various data-driven visualizations using Tableau.
 

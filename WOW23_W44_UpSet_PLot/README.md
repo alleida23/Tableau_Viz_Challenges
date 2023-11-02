@@ -26,7 +26,7 @@ I'm open to feedback and excited to keep honing my Tableau skills. Always learni
 
 **Hashtags:** #WOW2023 #WOW2023W44 #Tableau #Visualization #Dashboard
 
-### [Tableau Visualization: UpSet Plot](https://public.tableau.com/app/profile/albert1030/viz/UpSetPlot-WOW2023W44/Historia1?publish=yes)
+### [Tableau Visualization: UpSet Plot by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/UpSetPlot-WOW2023W44/Historia1?publish=yes)
 
 <img width="1367" alt="Viz - Albert Lleida" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/052c360b-b7a8-43b4-b184-b9ad31a46b8f">
 

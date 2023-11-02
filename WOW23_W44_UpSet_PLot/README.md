@@ -26,4 +26,8 @@ I'm open to feedback and excited to keep honing my Tableau skills. Always learni
 
 **Hashtags:** #WOW2023 #WOW2023W44 #Tableau #Visualization #Dashboard
 
-Skillss: Data Analysis · Data Visualization · Tableau*
+### [Tableau Visualization: UpSet Plot](https://public.tableau.com/app/profile/albert1030/viz/UpSetPlot-WOW2023W44/Historia1?publish=yes)
+
+This visualization presents the detailed UpSet plot created for the Workout Wednesday challenge. Explore customer purchasing patterns within Furniture sub-categories interactively.
+
+Skillss: Data Analysis · Data Visualization · Tableau

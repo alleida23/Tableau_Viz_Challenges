@@ -11,9 +11,9 @@ When you've completed a challenge, you can leave a comment with a link to your v
 
 ## Folder Structure
 
-### WOW23_W[number]
+- WOW[year]_W[week]
 
-Each folder labeled WOW23_W[number] represents a specific challenge I've attempted. Inside each folder, you'll find:
+Each folder labeled WOW[year]_W[week] represents a specific challenge I've attempted. Inside each folder, you'll find:
 
 - `README.md` containing details about the challenge, a link to the original challenge, a link to my Tableau visualization solution, and an image of my visualization.
 

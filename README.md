@@ -7,8 +7,6 @@ Welcome to my Tableau Visualization Challenges repository! Here, as a Junior Dat
 
 Workout Wednesday is a weekly challenge designed to kick-start personal development in Tableau and PowerBI. Each Wednesday, a new challenge is released, and participants are asked to replicate the challenge as closely as possible.
 
-When you've completed a challenge, you can leave a comment with a link to your visualization, share it on Tableau Public, or post it on Twitter for others to enjoy.
-
 ## Folder Structure
 
 - WOW[year]_W[week]

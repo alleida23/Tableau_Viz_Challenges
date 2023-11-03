@@ -17,7 +17,7 @@
 Find the original challenge description at the [WorkoutWednesday site](https://workout-wednesday.com/2023w20tab/).
 
 
-### [Tableau Visualization: Heat Map with Bathymetry Lines by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/HeatMapwithBathymetryLines-WOW2023W20/Historia1?publish=yes))
+### [Tableau Visualization: Heat Map with Bathymetry Lines by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/HeatMapwithBathymetryLines-WOW2023W20/Historia1?publish=yes)
 
 
 <img width="1218" alt="HM_Viz_Albert_Lleida" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/9634f202-e7c7-4033-8163-9e781344af41">

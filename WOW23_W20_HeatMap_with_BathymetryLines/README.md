@@ -25,7 +25,7 @@ Find the original challenge description at the [WorkoutWednesday site](https://w
 
 ### Development Progress
 
-I approached the challenge by initially creating a HeatMap using the 'date' month for columns and calculated the 'pct_of_total' utilizing the Window Function:
+I approached the challenge by initially creating a HeatMap using the 'Order Date' month for columns and calculated the 'pct_of_total' utilizing the Window Function:
 
 <img width="465" alt="Captura de pantalla 2023-11-03 a las 9 45 14" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/efa10414-8f94-4c4c-b4f4-85e1d562cbd1">
 

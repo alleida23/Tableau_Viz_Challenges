@@ -39,7 +39,7 @@ The solution was enlightening in several aspects:
 1. Utilization of a barplot to create a Heat Map.
 2. Logical filling of cells using 'MIN 1.0' and '0.0' axes.
 3. Application of the LOOKUP function and IFNULL for handling null data.
-4. Creation of horizontal and vertical lines and their adjustment via 'Edit Table Calculation' to function correctly on the grid.
+4. Creation of horizontal and vertical lines and their adjustment via 'Edit Table Calculation' to function correctly on the grid:
 
 <img width="553" alt="Captura de pantalla 2023-11-03 a las 9 42 42" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/6cebaf34-f53a-482d-ab49-60f8cd89f314">
 

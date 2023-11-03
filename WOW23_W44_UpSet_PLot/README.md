@@ -5,14 +5,14 @@ I'm a Junior Data Analyst enhancing my visualization skills in Tableau. This is 
 
 ### Challenge Details
 
+- **Created by** @LukeStanke - WOW23 W44
 - **Challenge:** Built an UpSet plot to visualize combinations of customers purchasing from different sub-categories within Furniture.
-- **Level:** Advanced - First attempt at such a complex visualization as a Junior Data Analyst.
+- **Level:** Advanced
 - **Progress:** Managed to bring it down to just one calculated field for enhanced efficiency.
 
 #### Key Features
 
-- **Dataset Source:** 20222 Superstore Dataset on Data.World.
-- **Dashboard Size:** 1200 x 800 px.
+- **Dataset Source:** '2022.2 SuperStore' Dataset on Data.World.
 - **Custom Calculations:** 1.
 - **Features:** Interactive view enabling users to explore sales data based on different customer cohorts.
 

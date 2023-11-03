@@ -15,8 +15,9 @@ Each folder labeled WOW[year]_W[week] represents a specific challenge I've attem
 
 - `README.md` containing details about the challenge, a link to the original challenge, a link to my Tableau visualization solution, and an image of my visualization.
 
-<img width="700" alt="Captura de pantalla 2023-11-02 a las 19 53 37" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/2be0fb36-0db5-4622-88d1-42b0113e15bd">
-
+<p align="center">
+  <img width="900" alt="Captura de pantalla 2023-11-02 a las 19 53 37" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/2be0fb36-0db5-4622-88d1-42b0113e15bd">
+</p>
 
 Feel free to explore each challenge folder to see my solutions and approach for different Workout Wednesday challenges.
 

@@ -77,6 +77,8 @@ In response to WOW22 W16 map challenge, I improved previous visualizations using
     </div>
 
     - Accessed the 'My Tableau Repository' folder on my computer and added the hexagon shape into the folder "Shapes".
+    - Refreshed the Shapes section in Tableau.
+    - The same process was repeated for another graph, this time with icons, as observed in the following image:
       #
 
     <div align="center">

@@ -1,12 +1,16 @@
 # Chile's Seismic Insights (2010-2023) with Hexbin Maps
 **By Albert Lleida, November 2023**
 
+
 <div align="center">
 <img width="860" alt="Captura de pantalla 2023-11-09 a las 0 15 51" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/272f0d15-50e8-4655-ab3b-70132781a5d6">
 <p style="font-size: smaller; font-style: italic;">Colors from www.ColorBrewer.org by Cynthia A. Brewer, Geography, Pennsylvania State University.</p>
 </div>
 
 ---
+### Key Features
+- Dataset Source: 'Earthquakes_EDA_Data.csv'
+
 
 ### Overview
 

@@ -17,8 +17,12 @@ Each folder labeled WOW[year]_W[week] represents a specific challenge I've attem
 
 <p align="center">
   <img width="330" height="210" alt="Image 1" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/2be0fb36-0db5-4622-88d1-42b0113e15bd">
-  <img width="330" height="210" alt="Image 2" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/016daeab-75c8-40ef-816f-32117b2d6fdc">
   <img width="330" height="210" alt="Image 3" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/0e182e10-2663-4e3a-b075-68f2bbf095dd">
+</p>
+
+<p align="center">
+  <img width="330" height="210" alt="Image 2" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/016daeab-75c8-40ef-816f-32117b2d6fdc">
+  <img width="330" height="210" alt="Captura de pantalla 2023-11-10 a las 17 34 46" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/36adddb1-51a6-4c72-87bf-2e3c542c655c">
 </p>
 
 
@@ -26,5 +30,5 @@ Feel free to explore each challenge folder to see my solutions and approach for 
 
 Enjoy exploring the visualizations and solutions! 📊✨
 
-## Last Updated: November 4, 2023
+## Last Updated: November 10, 2023
 

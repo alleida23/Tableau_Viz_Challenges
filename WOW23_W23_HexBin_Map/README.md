@@ -3,10 +3,11 @@
 **by Albert Lleida, November 2023**
 
 <br>
-
+<div align="center">
 <img width="800" alt="Captura de pantalla 2023-11-10 a las 17 34 46" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/5fc7c104-18ce-4ef5-abb5-423b68042b6b">
+</div>
 
-Tableau visualization of this challenge here [HexBin Map / Multiple State Selection by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/WOW23-W11HexBinMapRetainingOriginalColors/Dashboard1).
+Tableau visualization of this challenge available here: [Hex Map - Multiple State selection](https://public.tableau.com/app/profile/albert1030/viz/WOW23-W11HexBinMapRetainingOriginalColors/Dashboard1).
 
 
 ## Overview:

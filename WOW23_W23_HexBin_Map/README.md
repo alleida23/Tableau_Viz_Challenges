@@ -4,6 +4,11 @@
 
 <br>
 
+<img width="800" alt="Captura de pantalla 2023-11-10 a las 17 34 46" src="https://github.com/alleida23/Tableau_Viz_Challenges/assets/124719215/5fc7c104-18ce-4ef5-abb5-423b68042b6b">
+
+Tableau visualization of this challenge here [HexBin Map / Multiple State Selection by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/WOW23-W11HexBinMapRetainingOriginalColors/Dashboard1).
+
+
 ## Overview:
 
 Welcome to the visualization challenge! In this task, we aim to create a unique hex map that stands out by preserving the original colors even after state selection. This sets it apart from conventional hex maps that often utilize highlighting options.
@@ -17,7 +22,6 @@ The challenge is divided into clear and manageable steps, following the insightf
 
 For more details on the challenge itself, visit [Workout Wednesday Challenge - Week 11 (Part 1)](https://workout-wednesday.com/2023w11tab/) and [Week 23 (Part 2)](https://workout-wednesday.com/2023w23tab/).
 
-You can view my completed visualization of this challenge here [HexBin Map / Multiple State Selection by Albert Lleida](https://public.tableau.com/app/profile/albert1030/viz/WOW23-W11HexBinMapRetainingOriginalColors/Dashboard1).
 
 <br>
 

@@ -31,7 +31,7 @@ This dashboard provides a comprehensive view of sales by region, offering valuab
   - Hexbin map of the USA states colored by its positive or negative profit
   - Top-8 sold categories by regions with a bar plot showing profit output (positive or negative)
 
-Explore the [Tableau Visualization](https://public.tableau.com/app/profile/albert1030/viz/Supermarket-Dashboard/Dashboard2) for an interactive experience.
+Explore the [Tableau Visualization](https://public.tableau.com/app/profile/albert1030/viz/Supermarket-Dashboard_17008534273190/Dashboard2) for an interactive experience.
 
 ---
 
